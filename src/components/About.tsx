@@ -65,7 +65,7 @@ const About = () => {
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 También ofrezco <span className="font-semibold text-foreground">piezas en crudo por mayor</span>,
-                perfectas para quienes quieren explotar su propia imaginación y crear sus propias obras de arte.
+                perfectas para quienes quieren explotar su propia imaginación y crear obras de arte únicas.
               </p>
             </div>
           </div>
